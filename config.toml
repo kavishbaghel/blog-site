@@ -1,0 +1,4 @@
+baseURL = 'https://blog.kavishbaghel.com/'
+languageCode = 'en-us'
+title = 'Blog | Kavish Baghel'
+theme = 'mini'
